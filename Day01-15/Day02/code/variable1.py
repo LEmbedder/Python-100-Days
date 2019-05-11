@@ -11,7 +11,8 @@ b = 123
 print(a + b)
 print(a - b)
 print(a * b)
-print(a / b)
-print(a // b)
-print(a % b)
-print(a ** b)
+print(a / b)#有小数位
+print(a // b)#无小数位
+print(a % b)#余数
+print(a ** b)#2^3
+
